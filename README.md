@@ -56,3 +56,18 @@ Python & Tkinter Docs
 Pyperclip
 
 Made with ❤️ by Abdulganiyu_Techie
+
+
+## 💡 Getting Started
+
+### Prerequisites
+
+Make sure you have Python installed. You also need the following packages:
+
+- `tkinter` (comes with Python)
+- `pyperclip`
+
+To install `pyperclip`, run:
+
+```bash
+pip install pyperclip
