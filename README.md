@@ -49,11 +49,14 @@ Clone the repo and run the app:
 git clone https://github.com/your-username/password-manager.git
 cd password-manager
 python main.py
+
+---
 📌 Notes
 Your passwords are stored locally in a plain text file, data.txt. For better security, consider encrypting the file or integrating with a secure vault system.
 
 Update the default email inside the code or allow user settings for flexibility.
 
+---
 
 ✨ Future Improvements
 Search saved credentials
@@ -63,6 +66,8 @@ Edit or delete saved passwords
 Store data in an encrypted format
 
 Add login authentication to access the password manager
+
+---
 
 📄 License
 This project is open source and available under the MIT License.
