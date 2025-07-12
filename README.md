@@ -29,29 +29,7 @@ password-manager/
 └── main.py # Main Python source code
 
 ---
-
-## 💡 Getting Started
-
-### Prerequisites
-
-Please ensure you have Python installed. You also need the following packages:
-
-- `tkinter` (comes with Python)
-- `pyperclip`
-
-To install `pyperclip`, run:
-
-```bash
-pip install pyperclip
-Running the App
-Clone the repo and run the app:
-
-git clone https://github.com/your-username/password-manager.git
-cd password-manager
-python main.py
-
----
-## 📌** Notes**
+## 📌Notes
 Your passwords are stored locally in a plain text file, data.txt. For better security, consider encrypting the file or integrating with a secure vault system.
 
 Update the default email inside the code or allow user settings for flexibility.
