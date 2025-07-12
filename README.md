@@ -51,14 +51,14 @@ cd password-manager
 python main.py
 
 ---
-📌 Notes
+## 📌 Notes
 Your passwords are stored locally in a plain text file, data.txt. For better security, consider encrypting the file or integrating with a secure vault system.
 
 Update the default email inside the code or allow user settings for flexibility.
 
 ---
 
-✨ Future Improvements
+## ✨ Future Improvements
 Search saved credentials
 
 Edit or delete saved passwords
@@ -69,10 +69,10 @@ Add login authentication to access the password manager
 
 ---
 
-📄 License
+## 📄 License
 This project is open source and available under the MIT License.
 
-🙌 Acknowledgements
+## 🙌 Acknowledgements
 Python & Tkinter Docs
 
 Pyperclip
