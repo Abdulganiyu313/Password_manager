@@ -51,7 +51,7 @@ cd password-manager
 python main.py
 
 ---
-## 📌 Notes
+## 📌** Notes**
 Your passwords are stored locally in a plain text file, data.txt. For better security, consider encrypting the file or integrating with a secure vault system.
 
 Update the default email inside the code or allow user settings for flexibility.
